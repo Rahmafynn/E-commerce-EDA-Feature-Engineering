@@ -1,5 +1,4 @@
 
-# DecodeLabs Data Science Project 1
 ## Advanced EDA & Feature Engineering 🚀
 
 ### Project Overview
