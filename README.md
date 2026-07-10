@@ -83,5 +83,4 @@ ready for machine learning algorithms.
 - Feast
 
 ### Author
-Rahma | DecodeLabs Data Science Intern
-Batch 2026
+Rahma 
